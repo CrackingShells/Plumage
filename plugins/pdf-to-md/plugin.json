@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pdf-to-md",
+  "version": "0.0.0",
+  "description": "Converts digital-native PDFs into Markdown with figures embedded where they belong, using poppler and pandoc.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "pdf",
+    "markdown",
+    "conversion",
+    "agents"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "PDF to Markdown",
+        "shortDescription": "Converts digital-native PDFs into Markdown with figures embedded where they belong, using poppler and pandoc.",
+        "longDescription": "Converts digital-native PDFs into Markdown with figures embedded where they belong, using poppler and pandoc.",
+        "developerName": "Eliott Jacopin",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "writing-design-canons",
+  "version": "1.0.0",
+  "description": "Produces layered design canons a team uses to make assets in a coherent style and stakeholders use to review them.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "design",
+    "visual-identity",
+    "style-guide",
+    "agents"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Writing Design Canons",
+        "shortDescription": "Produces layered design canons a team uses to make assets in a coherent style and stakeholders use to review them.",
+        "longDescription": "Produces layered design canons a team uses to make assets in a coherent style and stakeholders use to review them.",
+        "developerName": "Eliott Jacopin",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ]
+      }
+    }
+  }
+}
