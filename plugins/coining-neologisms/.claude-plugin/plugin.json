@@ -1,7 +1,7 @@
 {
   "name": "coining-neologisms",
   "displayName": "Coining Neologisms",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Coins a precise new word and its morphological family for a concept that lacks a compact name.",
   "author": {
     "name": "Eliott Jacopin",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "coining-neologisms",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Coins a precise new word and its morphological family for a concept that lacks a compact name.",
   "author": {
     "name": "Eliott Jacopin",
