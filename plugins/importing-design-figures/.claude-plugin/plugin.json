@@ -1,0 +1,20 @@
+{
+  "name": "importing-design-figures",
+  "displayName": "Importing Design Figures",
+  "version": "1.0.0",
+  "description": "Turns a Claude Design figure or table into a print-quality image placed, undistorted, into a local document.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "figures",
+    "design",
+    "documents",
+    "agents"
+  ],
+  "skills": "./skills/"
+}

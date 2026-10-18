@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "writing-prose",
+  "version": "1.1.0",
+  "description": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "writing",
+    "prose",
+    "register",
+    "agents"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Writing Prose",
+        "shortDescription": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
+        "longDescription": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
+        "developerName": "Eliott Jacopin",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ]
+      }
+    }
+  }
+}

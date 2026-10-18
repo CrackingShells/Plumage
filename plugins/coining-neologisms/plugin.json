@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "coining-neologisms",
+  "version": "0.0.0",
+  "description": "Coins a precise new word and its morphological family for a concept that lacks a compact name.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "naming",
+    "terminology",
+    "etymology",
+    "agents"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Coining Neologisms",
+        "shortDescription": "Coins a precise new word and its morphological family for a concept that lacks a compact name.",
+        "longDescription": "Coins a precise new word and its morphological family for a concept that lacks a compact name.",
+        "developerName": "Eliott Jacopin",
+        "category": "Productivity",
+        "capabilities": [
+          "Read"
+        ]
+      }
+    }
+  }
+}

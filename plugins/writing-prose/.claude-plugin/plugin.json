@@ -1,0 +1,20 @@
+{
+  "name": "writing-prose",
+  "displayName": "Writing Prose",
+  "version": "1.1.0",
+  "description": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
+  "author": {
+    "name": "Eliott Jacopin",
+    "email": "eliott.jacopin@riken.jp"
+  },
+  "homepage": "https://github.com/CrackingShells/Plumage",
+  "repository": "https://github.com/CrackingShells/Plumage",
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "writing",
+    "prose",
+    "register",
+    "agents"
+  ],
+  "skills": "./skills/"
+}
