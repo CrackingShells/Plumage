@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "pdf-to-md",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts digital-native PDFs into Markdown with figures embedded where they belong, using poppler and pandoc.",
   "author": {
     "name": "Eliott Jacopin",
