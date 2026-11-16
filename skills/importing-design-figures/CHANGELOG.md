@@ -1,3 +1,10 @@
+# importing-design-figures [1.1.0](https://github.com/CrackingShells/Plumage/compare/importing-design-figures@1.0.0...importing-design-figures@1.1.0) (2026-11-16)
+
+
+### Features
+
+* **importing-design-figures:** ask agents to report plugin problems ([1606d12](https://github.com/CrackingShells/Plumage/commit/1606d12e60455f7cf41ae036c58cde9822d1b8c1))
+
 # importing-design-figures 1.0.0 (2026-07-21)
 
 

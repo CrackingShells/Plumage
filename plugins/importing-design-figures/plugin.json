@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "importing-design-figures",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Turns a Claude Design figure or table into a print-quality image placed, undistorted, into a local document.",
   "author": {
     "name": "Eliott Jacopin",

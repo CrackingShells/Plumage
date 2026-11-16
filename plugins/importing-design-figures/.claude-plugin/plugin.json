@@ -1,7 +1,7 @@
 {
   "name": "importing-design-figures",
   "displayName": "Importing Design Figures",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Turns a Claude Design figure or table into a print-quality image placed, undistorted, into a local document.",
   "author": {
     "name": "Eliott Jacopin",
