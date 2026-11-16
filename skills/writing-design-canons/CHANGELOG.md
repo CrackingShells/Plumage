@@ -1,3 +1,10 @@
+# writing-design-canons [1.1.0](https://github.com/CrackingShells/Plumage/compare/writing-design-canons@1.0.0...writing-design-canons@1.1.0) (2026-11-16)
+
+
+### Features
+
+* **writing-design-canons:** ask agents to report plugin problems ([32d3875](https://github.com/CrackingShells/Plumage/commit/32d38754b31106f56f37b2a848889666ae9ac50b))
+
 # writing-design-canons 1.0.0 (2026-07-21)
 
 

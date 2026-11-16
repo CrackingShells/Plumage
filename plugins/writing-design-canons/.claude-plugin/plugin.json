@@ -1,7 +1,7 @@
 {
   "name": "writing-design-canons",
   "displayName": "Writing Design Canons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Produces layered design canons a team uses to make assets in a coherent style and stakeholders use to review them.",
   "author": {
     "name": "Eliott Jacopin",

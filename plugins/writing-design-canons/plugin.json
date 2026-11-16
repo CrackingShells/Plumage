@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "writing-design-canons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Produces layered design canons a team uses to make assets in a coherent style and stakeholders use to review them.",
   "author": {
     "name": "Eliott Jacopin",
