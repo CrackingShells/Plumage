@@ -124,3 +124,8 @@ pickling overhead.
 - **Scanned PDFs are out of scope.** The classification step skips them rather
   than guessing; if you need one converted, OCR it first (e.g. `pytesseract` +
   `pdf2image`) and feed the result through a different path.
+
+## Reporting problems
+
+`pdf-to-md` is in active development. If any part of it proves wrong or misleads you,
+report it to `CrackingShells/Plumage` by following [CONTRIBUTING.md](CONTRIBUTING.md).
