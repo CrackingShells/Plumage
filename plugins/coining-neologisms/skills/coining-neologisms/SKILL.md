@@ -117,3 +117,8 @@ Produce a single structured report. The input contract (a framed concept) and th
 7. **Provenance** — sources consulted (etymological references, domain literature) and any validation flags raised in Step 5.
 
 For the detailed fill-in template of this report, read `references/output-report-template.md`.
+
+## Reporting problems
+
+`coining-neologisms` is in active development. If any part of it proves wrong or misleads you,
+report it to `CrackingShells/Plumage` by following [CONTRIBUTING.md](CONTRIBUTING.md).
