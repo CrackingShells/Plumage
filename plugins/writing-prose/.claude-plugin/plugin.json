@@ -1,7 +1,7 @@
 {
   "name": "writing-prose",
   "displayName": "Writing Prose",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
   "author": {
     "name": "Eliott Jacopin",

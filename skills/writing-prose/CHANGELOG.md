@@ -1,3 +1,10 @@
+# writing-prose [1.2.0](https://github.com/CrackingShells/Plumage/compare/writing-prose@1.1.0...writing-prose@1.2.0) (2026-11-16)
+
+
+### Features
+
+* **writing-prose:** ask agents to report plugin problems ([89878ba](https://github.com/CrackingShells/Plumage/commit/89878ba221f2741e9dfabd0641afc85cdc3ac1d8))
+
 # writing-prose [1.1.0](https://github.com/CrackingShells/cracking-shells-playbook/compare/writing-prose@1.0.0...writing-prose@1.1.0) (2026-09-16)
 
 

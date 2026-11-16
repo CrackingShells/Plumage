@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "writing-prose",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Drafts, revises and reviews prose signed in the author's own voice, with register control against LLM-default rhetoric.",
   "author": {
     "name": "Eliott Jacopin",
