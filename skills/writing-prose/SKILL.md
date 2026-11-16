@@ -44,3 +44,8 @@ Length constraints (page counts, word limits, form character caps) are common in
 - Accuracy scoping is never traded: every claim keeps its honest qualifiers regardless of what fit or flow would prefer.
 - Verification of prose is either mechanical and falsifiable (a character-class check, a byte diff, computed arithmetic) or done by a reader (an agent or the signer). A keyword search that would pass any text mentioning the keyword verifies nothing.
 - The skill's own working documents (reports, comments, commit messages) follow the author's register rules too; vocabulary drift introduced in intermediate documents seeds the next draft's vocabulary and compounds.
+
+## Reporting problems
+
+`writing-prose` is in active development. If any part of it proves wrong or misleads you,
+report it to `CrackingShells/Plumage` by following [CONTRIBUTING.md](CONTRIBUTING.md).

@@ -148,3 +148,8 @@ These rules apply both to *this skill's own prose* and to the documents the skil
 ## When in doubt
 
 Return to the controlling heuristic: *does this make the produced canon more reliably consumable by a designer or stakeholder who wasn't in the room?* If the answer is no, the choice fails the contract regardless of how good the prose is.
+
+## Reporting problems
+
+`writing-design-canons` is in active development. If any part of it proves wrong or misleads you,
+report it to `CrackingShells/Plumage` by following [CONTRIBUTING.md](CONTRIBUTING.md).
