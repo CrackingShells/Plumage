@@ -1,3 +1,10 @@
+# coining-neologisms [1.1.0](https://github.com/CrackingShells/Plumage/compare/coining-neologisms@1.0.0...coining-neologisms@1.1.0) (2026-11-16)
+
+
+### Features
+
+* **coining-neologisms:** ask agents to report plugin problems ([468a641](https://github.com/CrackingShells/Plumage/commit/468a641e5f18f6a26a1340a5e012c44e65041dc9))
+
 # coining-neologisms 1.0.0 (2026-10-18)
 
 
